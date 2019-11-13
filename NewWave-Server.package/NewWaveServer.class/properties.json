@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NewWave-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"port",
+		"teapot",
+		"engine",
+		"element",
+		"pendingTasks"
+	],
+	"name" : "NewWaveServer",
+	"type" : "normal"
+}
